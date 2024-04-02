@@ -33,6 +33,12 @@
 
 16. Next all instructions are given in code
 
+
+
+
+
+
+Additional docs for faqs
 Tensorflow Object Detection API - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 
 
