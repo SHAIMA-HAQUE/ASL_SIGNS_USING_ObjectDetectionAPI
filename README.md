@@ -2,7 +2,7 @@
 2. We need a virtual environment using Python 3.9 and Tensorflow 3.12  (very important)
 
 ```conda create -n py39 python=3.9```
-```conda actiavte py39```
+```conda activate py39```
 
 3. Try `python --version` and 
 `python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"` to test if they are installed correctly 
