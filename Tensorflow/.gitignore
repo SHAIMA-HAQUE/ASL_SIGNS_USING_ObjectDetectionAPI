@@ -1,2 +1,3 @@
 models
-/annotations/*.record
+annotations/*.record
+ex-trained_models
