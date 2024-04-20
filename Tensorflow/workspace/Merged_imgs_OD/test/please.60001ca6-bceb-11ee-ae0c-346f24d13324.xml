@@ -1,0 +1,26 @@
+<annotation>
+	<folder>please</folder>
+	<filename>please.60001ca6-bceb-11ee-ae0c-346f24d13324.jpg</filename>
+	<path>D:\image_detection_jo\TFODCourse\Tensorflow\workspace\images\collectedimages\please\please.60001ca6-bceb-11ee-ae0c-346f24d13324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Please</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>306</ymin>
+			<xmax>447</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

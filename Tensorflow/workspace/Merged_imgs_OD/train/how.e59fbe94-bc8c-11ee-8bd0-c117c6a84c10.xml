@@ -1,0 +1,26 @@
+<annotation>
+	<folder>how</folder>
+	<filename>how.e59fbe94-bc8c-11ee-8bd0-c117c6a84c10.jpg</filename>
+	<path>C:\Ankita_asl_words\TFODCourse\Tensorflow\workspace\images\collectedimages\how\how.e59fbe94-bc8c-11ee-8bd0-c117c6a84c10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>how</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>305</ymin>
+			<xmax>459</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

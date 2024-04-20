@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good</folder>
+	<filename>good.4ea304e8-bbb6-11ee-83ca-7e09ada021c9.jpg</filename>
+	<path>/Users/shaimahaque/Downloads/ImageCollection_asl/Tensorflow/workspace/images/collectedimages/good/good.4ea304e8-bbb6-11ee-83ca-7e09ada021c9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>53</ymin>
+			<xmax>1308</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

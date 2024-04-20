@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sorry</folder>
+	<filename>sorry.a8644d2a-bbb6-11ee-83ca-7e09ada021c9.jpg</filename>
+	<path>/Users/shaimahaque/Downloads/ImageCollection_asl/Tensorflow/workspace/images/collectedimages/sorry/sorry.a8644d2a-bbb6-11ee-83ca-7e09ada021c9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>157</ymin>
+			<xmax>1217</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

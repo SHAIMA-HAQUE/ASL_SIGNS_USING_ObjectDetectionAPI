@@ -1,0 +1,26 @@
+<annotation>
+	<folder>help</folder>
+	<filename>help.fc09f4d4-bbb6-11ee-83ca-7e09ada021c9.jpg</filename>
+	<path>/Users/shaimahaque/Downloads/ImageCollection_asl/Tensorflow/workspace/images/collectedimages/help/help.fc09f4d4-bbb6-11ee-83ca-7e09ada021c9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Help</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>758</xmin>
+			<ymin>475</ymin>
+			<xmax>1267</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

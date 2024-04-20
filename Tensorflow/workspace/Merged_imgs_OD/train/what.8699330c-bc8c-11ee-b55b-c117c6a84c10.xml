@@ -1,0 +1,26 @@
+<annotation>
+	<folder>what</folder>
+	<filename>what.8699330c-bc8c-11ee-b55b-c117c6a84c10.jpg</filename>
+	<path>C:\Ankita_asl_words\TFODCourse\Tensorflow\workspace\images\collectedimages\what\what.8699330c-bc8c-11ee-b55b-c117c6a84c10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>what</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>376</ymin>
+			<xmax>576</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

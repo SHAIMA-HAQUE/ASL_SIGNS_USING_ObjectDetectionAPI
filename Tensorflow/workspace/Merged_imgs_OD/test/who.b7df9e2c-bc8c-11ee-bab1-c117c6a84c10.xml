@@ -1,0 +1,26 @@
+<annotation>
+	<folder>who</folder>
+	<filename>who.b7df9e2c-bc8c-11ee-bab1-c117c6a84c10.jpg</filename>
+	<path>C:\Ankita_asl_words\TFODCourse\Tensorflow\workspace\images\collectedimages\who\who.b7df9e2c-bc8c-11ee-bab1-c117c6a84c10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>who</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>203</ymin>
+			<xmax>314</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

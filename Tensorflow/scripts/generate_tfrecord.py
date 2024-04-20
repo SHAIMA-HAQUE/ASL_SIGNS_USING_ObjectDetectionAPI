@@ -116,7 +116,40 @@ def xml_to_csv(path):
 
 
 def class_text_to_int(row_label):
-    return label_map_dict[row_label]
+    if row_label == "fine":
+        return 1
+    if row_label == "food":
+        return 2
+    if row_label == "good":
+        return 3
+    if row_label == "hello":
+        return 4
+    if row_label == "help":
+        return 5
+    if row_label == "how":
+        return 6
+    if row_label == "hungry":
+        return 7
+    if row_label == "i_love_you":
+        return 8
+    if row_label == "no":
+        return 9
+    if row_label == "please":
+        return 10
+    if row_label == "sorry":
+        return 11
+    if row_label == "thankyou":
+        return 12
+    if row_label == "tired":
+        return 13
+    if row_label == "what":
+        return 14
+    if row_label == "who":
+        return 15
+    if row_label == "yes":
+        return 16
+    else:
+        return 0
 
 
 def split(df, group):

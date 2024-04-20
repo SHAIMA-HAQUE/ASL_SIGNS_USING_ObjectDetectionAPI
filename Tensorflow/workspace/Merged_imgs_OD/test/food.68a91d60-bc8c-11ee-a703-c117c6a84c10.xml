@@ -1,0 +1,26 @@
+<annotation>
+	<folder>food</folder>
+	<filename>food.68a91d60-bc8c-11ee-a703-c117c6a84c10.jpg</filename>
+	<path>C:\Ankita_asl_words\TFODCourse\Tensorflow\workspace\images\collectedimages\food\food.68a91d60-bc8c-11ee-a703-c117c6a84c10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>219</ymin>
+			<xmax>286</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
