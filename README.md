@@ -23,7 +23,7 @@
 
 11. `cp -r pycocotools /content/tensorflow_models/models/research`
 
-12. `python -m pip install .`
+12. `python -m pip install .` OR pip install tf-models-official (this command helped passed the test cases in Step 13 for some)
 
 The command below will run inside `Tensorflow/models/research`
 
