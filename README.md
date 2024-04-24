@@ -23,7 +23,9 @@
 
 11. `cp -r pycocotools /content/tensorflow_models/models/research`
 
-12. `python -m pip install .`
+12. `python -m pip install .` OR pip install tf-models-official (this command helped passed the test cases in Step 13 for some)
+
+The command below will run inside `Tensorflow/models/research`
 
 13. `python object_detection/builders/model_builder_tf2_test.py` - all tests should pass here if your python and tensorflow versions are alright. If not some problems and their potential solutions which I had referred to are added below.
 
