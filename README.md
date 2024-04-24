@@ -26,6 +26,7 @@
 12. `python -m pip install .`
 
 The command below will run inside `Tensorflow/models/research`
+
 13. `python object_detection/builders/model_builder_tf2_test.py` - all tests should pass here if your python and tensorflow versions are alright. If not some problems and their potential solutions which I had referred to are added below.
 
 14. The above steps will make the object detection api ready to use
