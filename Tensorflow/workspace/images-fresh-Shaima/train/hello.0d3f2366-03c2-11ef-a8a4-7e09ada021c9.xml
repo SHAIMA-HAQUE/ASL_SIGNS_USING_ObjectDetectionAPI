@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.0d3f2366-03c2-11ef-a8a4-7e09ada021c9.jpg</filename>
+	<path>/Users/shaimahaque/Projects/ASL_Image_Capture/images/collectedimages/hello/hello.0d3f2366-03c2-11ef-a8a4-7e09ada021c9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>117</ymin>
+			<xmax>924</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

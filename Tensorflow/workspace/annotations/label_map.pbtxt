@@ -1,64 +1,20 @@
 item { 
-	name:'fine'
+	name:'hello'
 	id:1
 }
 item { 
-	name:'food'
+	name:'help'
 	id:2
 }
 item { 
-	name:'good'
+	name:'iloveyou'
 	id:3
 }
 item { 
-	name:'hello'
+	name:'no'
 	id:4
 }
 item { 
-	name:'help'
-	id:5
-}
-item { 
-	name:'how'
-	id:6
-}
-item { 
-	name:'hungry'
-	id:7
-}
-item { 
-	name:'i_love_you'
-	id:8
-}
-item { 
-	name:'no'
-	id:9
-}
-item { 
-	name:'please'
-	id:10
-}
-item { 
-	name:'sorry'
-	id:11
-}
-item { 
-	name:'thankyou'
-	id:12
-}
-item { 
-	name:'tired'
-	id:13
-}
-item { 
-	name:'what'
-	id:14
-}
-item { 
-	name:'who'
-	id:15
-}
-item { 
 	name:'yes'
-	id:16
+	id:5
 }
