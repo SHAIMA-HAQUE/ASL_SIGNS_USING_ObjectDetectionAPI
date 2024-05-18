@@ -1,4 +1,11 @@
-1. Git clone this repo
+
+
+
+https://github.com/SHAIMA-HAQUE/ASL_SIGNS_USING_ObjectDetectionAPI/assets/71368232/ec7be5f3-ded1-435b-8a4f-e9bd6e8ec9b0
+
+
+
+1. Clone this repo
 2. We need a virtual environment using Python 3.9 and Tensorflow 2.13.0  (very important)
 
 ```conda create -n py39 python=3.9```
